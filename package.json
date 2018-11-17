@@ -1,0 +1,23 @@
+{
+  "name": "porto-grid",
+  "version": "1.0.0",
+  "description": "A multi tab single page developer/designer page",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages-d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Travisg25/multi-tab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Travisg25/multi-tab/issues"
+  },
+  "homepage": "https://Travisg25.github.io/multi-tab",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
