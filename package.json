@@ -4,7 +4,8 @@
   "description": "A multi tab single page developer/designer page",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages-d dist"
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -16,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/Travisg25/multi-tab/issues"
   },
-  "homepage": "https://Travisg25.github.io/multi-tab",
+  "homepage": "https://github.com/Travisg25/multi-tab",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
